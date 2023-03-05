@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using NetTopologySuite;
+﻿using NetTopologySuite;
 using NetTopologySuite.Features;
 using NetTopologySuite.Geometries;
 
